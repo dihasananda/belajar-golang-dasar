@@ -1,4 +1,4 @@
 ## download and installation
 
 ##
-    wget -c 
+  wget -c 
