@@ -1,5 +1,4 @@
 ## download and installation
 
-```bash
-wget -c 
-```
+##
+    wget -c 
