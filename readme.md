@@ -1,3 +1,5 @@
 ## download and installation
 
-```wget -c ```
+```bash
+wget -c 
+```
